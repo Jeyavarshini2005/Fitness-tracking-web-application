@@ -89,9 +89,3 @@ The chatbot provides:
 * Add charts for analytics
 * Voice-based chatbot
 * Mobile app version
-
----
-
-## 👩‍💻 Author
-
-Your Name
