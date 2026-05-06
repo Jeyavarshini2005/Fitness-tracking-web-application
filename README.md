@@ -90,8 +90,5 @@ The chatbot provides:
 * Voice-based chatbot
 * Mobile app version
 
----
 
-## 👩‍💻 Author
 
-Your Name
