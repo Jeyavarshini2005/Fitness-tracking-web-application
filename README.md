@@ -111,4 +111,3 @@ const message = await client.messages.create({
 - **Auth**: JWT (JSON Web Tokens) + bcrypt
 - **Charts**: Recharts (Line, Area, Bar, Pie)
 
-## 👨‍💻 Created For Final Year Project
